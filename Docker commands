@@ -34,7 +34,7 @@ docker ps -a : To list all containers .. irrespective of whether they are exited
 
 docker ps -a -q : To list containers by theier ID's
 
-docker logs <docker containe-ID> : Display logs for running container
+docker logs <docker container-ID> : Display logs for running container
 
 docker stop <container ID> : To stop a specific container 
 
